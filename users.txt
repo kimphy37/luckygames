@@ -1,2 +1,2 @@
-["sieucheckerphy", "sieucheckerpgp", "teamcodebot", "teamcodebot6", ] 
+["sieucheckerphy", "sieucheckerpgp", ] 
 ["chuonghv37", "syviet", " vieths", "TRUMPVN4", "Raintruong88", "xk2tech", "cupic999", ]
